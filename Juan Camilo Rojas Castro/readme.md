@@ -30,7 +30,12 @@ ng new proyect
 
 ## Mi gato
 Decidí dejar esta sección exclusivamente para mi gato, se llama _Minino_ y es probablemente el ser al que mas afecto le guardo después de mi familia.
-![Gato](![](https://cdn.discordapp.com/attachments/691077311965167718/933930009255632988/WhatsApp_Image_2022-01-20_at_10.43.48_PM.jpeg)
+![Gato](https://cdn.discordapp.com/attachments/691077311965167718/933930009255632988/WhatsApp_Image_2022-01-20_at_10.43.48_PM.jpeg)
 
+## Curso Git
+###	Principal
+![CapturaPrincipal](https://cdn.discordapp.com/attachments/691077311965167718/933935388333076540/unknown.png)
+###	Remote
+![CapturaRemoto](https://cdn.discordapp.com/attachments/691077311965167718/933935050976817202/unknown.png)
 ## LinkedIn
 Aquí dejo [mi LinkedIn](https://www.linkedin.com/in/juan-rojas-6042a4206/) para un poco más de mi formación y experiencia.
