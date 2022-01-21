@@ -1,12 +1,5 @@
 # Francisco Javier Rojas M.
 
-## Tabla de Contenido
-
-- [Descripción](#descripción)
-- [Gustos](#gustos)
-- [Mi gato](#mi-gato)
-- [LinkedIn](#linkedin)
-
 ## Acerca de mi
 *Soy una persona a la que le gustan los retos y por esto busca su contante mejora a nivel emocional, intelectual y fisico, gracias ha estos ideales y a mis fuertes creencias en ***Dios*** he podido crecer como persona que contribuye a la sociedad y que enel futuro sera un ingeniero para el bien social* 
 ___
