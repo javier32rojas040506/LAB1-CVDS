@@ -10,10 +10,10 @@ ___
 - Organizacion: **Escuela Colombiana de Ingenieria Julio Garavito**
 ___
 ### Gustos
-1. Gimansio
-2. Comer
-3. Estudiar
-4. pasar tiempo en familia
+1. Gimansio 💪
+2. Comer 🍔
+3. Estudiar 📗 ✏️
+4. pasar tiempo en familia 👪
 ___
 ### Redes Sociales
 - [LinkedIn](https://www.linkedin.com/in/francisco-javier-rojas-mu%C3%B1oz-96934a1ab/)
@@ -36,3 +36,7 @@ public class Despedida
     }
 }
 ~~~
+
+## Curso git
+![EJERCICIOS MAIN](https://cdn.discordapp.com/attachments/831560691252068372/934300166490578984/unknown.png)
+![EJERCICIOS REMOTO](https://media.discordapp.net/attachments/831560691252068372/934301508500066344/unknown.png?width=1189&height=670)
